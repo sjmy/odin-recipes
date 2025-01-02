@@ -1,0 +1,21 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: lightgray;
+}
+
+.recipes:link {
+    color: lightgray;
+}
+
+.recipes:visited {
+    color: gray;
+}
+
+.recipes:hover {
+    color: lightgreen;
+}
+
+.recipes:active {
+    color: red;
+}
